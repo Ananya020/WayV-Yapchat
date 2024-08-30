@@ -1,0 +1,25 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor config files
+.DS_Store
+.editorconfig
+
+# IDE specific files
+.vscode/
+*.suo
+*.user
+
+# Build output and temporary files
+dist/
+build/
+coverage/
+*.log
+*.tmp
+
+# Test results
+test-results/
+**/node_modules/.cache/
+**/yarn/*
